@@ -1,4 +1,4 @@
-package com.krafttech.utilities;
+package Com.zerobank.utilities;
 
 import java.io.FileInputStream;
 import java.util.Properties;
